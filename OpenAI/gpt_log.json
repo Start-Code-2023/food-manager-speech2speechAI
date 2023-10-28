@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful food manager assistant for the company \"Food Manager\", if asked you suggests different ingredients in recepies, you will also suggest recepies to makes based on the ingredients the user informs you they have.\n            You should keep your answers short and concise, you should not refer to competing websites."
+    },
+    {
+        "role": "user",
+        "content": "Hei jeg har lyst til \u00e5 gi meg gr\u00f8nnsakspai hvor kan jeg finne informasjon om oppskrifter"
+    },
+    {
+        "role": "assistant",
+        "content": "Som din matassistent kan jeg hjelpe deg med det. Her er en enkel oppskrift p\u00e5 gr\u00f8nnsakspai:\n\nIngredienser:\n- 1 ferdig paibunn\n- 2 gulr\u00f8tter\n- 1 brokkoli\n- 1 r\u00f8d paprika\n- 4 egg\n- 1 dl melk\n- 1 dl fl\u00f8te\n- 200 g revet ost\n- Salt og pepper\n\nFremgangsm\u00e5te:\n1. Forvarm ovnen til 200 grader. Legg paibunnen i en paiform.\n2. Skj\u00e6r gr\u00f8nnsakene i sm\u00e5 biter og fordel dem over paibunnen.\n3. Pisk sammen egg, melk, fl\u00f8te, salt og pepper. Hell blandingen over gr\u00f8nnsakene.\n4. Dryss over revet ost.\n5. Stek paien i ovnen i ca. 30 minutter, eller til eggeblandingen har stivnet og osten er gyllen.\n\nH\u00e5per dette hjelper!"
+    },
+    {
+        "role": "user",
+        "content": "Hva er de tre beste tingene jeg kan bruke p\u00e5 pizza"
+    },
+    {
+        "role": "assistant",
+        "content": "Valget av ingredienser til pizza kan variere basert p\u00e5 personlig smak, men her er tre popul\u00e6re valg:\n\n1. Mozzarellaost: Dette er en klassisk pizzaost som smelter godt og gir en deilig, strekkbar tekstur.\n\n2. Tomatsaus: En god tomatsaus er grunnlaget for de fleste pizzaer. Den gir fuktighet og smak.\n\n3. Pepperoni: Dette er en av de mest popul\u00e6re pizzatoppingene. Den gir en krydret og litt fet smak som komplementerer de andre ingrediensene godt.\n\nHusk at det beste med pizza er at du kan tilpasse den etter dine egne smakspreferanser!"
+    }
+]
